@@ -1,0 +1,38 @@
+
+app WE-PhotoCopying.pc  = WE Photo Copier
+    author              = 215MMS
+    description         = How to use a photo copier
+    email               = 215multimediasuite@gmail.com
+    emphasis            = 15
+    icon                = photocopying.jpg
+    logoText            = Photo Copying, Coreliu
+    ordered             = always
+    rightInARow         = 3
+    musicSpeechVolume   = 250
+    speakers            = Amy
+    maxImages           = 3
+    
+    
+photo pc1               = Pick up the paper from the tray
+      url               = PhotoCopying1.jpg
+      
+photo pc2               = Take the paper to the copier
+      url               = PhotoCopying2.jpg
+      
+photo pc3               = Lift the copier lid
+      url               = PhotoCopying3.jpg
+      
+photo pc4               = Lay the paper on the scan glass
+      url               = PhotoCopying4.jpg
+      
+photo pc5               = Close the copier lid
+      url               = PhotoCopying5.jpg
+      
+photo pc6               = Choose black and white or colour
+      url               = PhotoCopying6.jpg
+      
+photo pc7               = Press the start button
+      url               = PhotoCopying7.jpg
+      
+photo pc8               = Collect the print out
+      url               = PhotoCopying8.jpg
